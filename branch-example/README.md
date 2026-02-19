@@ -1,6 +1,6 @@
-# Branch Example
-Softwareentwickler mit Schwerpunkt Full-Stack-Webentwicklung und umfassender Erfahrung in JavaScript und Python. Experte in der Entwicklung skalierbarer RESTful- und GraphQL-APIs, dem Design sauberer Architekturen und der Bereitstellung hochwertigen, wartungsfreundlichen Codes.
+# Branch Exampl
+Desarrollador de software especializado en desarrollo web Full-Stack, con amplia experiencia en JavaScript y Python. Experto en el desarrollo de APIs RESTful y GraphQL escalables, el diseño de arquitecturas limpias y la entrega de código de alta calidad y fácil mantenimiento.
 
-Ich verfüge über praktische Erfahrung in der Entwicklung von Backend-Systemen mit Node.js, Express, Django und Flask und arbeite sowohl mit relationalen als auch nicht-relationalen Datenbanken. Mein Fokus liegt auf sauberem, testbarem Code gemäß den SOLID-Prinzipien und Best Practices der Softwarearchitektur.
+Tengo experiencia práctica en el desarrollo de sistemas backend con Node.js, Express, Django y Flask, y trabajo tanto con bases de datos relacionales como no relacionales. Mi enfoque está en escribir código limpio y comprobable siguiendo los principios SOLID y las mejores prácticas de arquitectura de software.
 
-Ich begeistere mich für die Lösung realer Probleme durch Technologie und entwickle mit Freude effiziente Systeme, optimiere die Performance und verbessere kontinuierlich die Codequalität. Ich engagiere mich für lebenslanges Lernen, die Zusammenarbeit und die Bereitstellung zuverlässiger Lösungen mit messbarer Wirkung.
+Me apasiona resolver problemas reales mediante la tecnología y disfruto creando sistemas eficientes, optimizando el rendimiento y mejorando continuamente la calidad del código. Estoy comprometido con el aprendizaje continuo, la colaboración y la entrega de soluciones fiables con impacto medible.
